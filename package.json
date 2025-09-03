@@ -1,0 +1,11 @@
+{
+  "name": "licitacoes-tecpar",
+  "version": "1.0.0",
+  "description": "Monitor de licitações do Tecpar com Vercel Functions",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^30.0.0"
+  }
+}
